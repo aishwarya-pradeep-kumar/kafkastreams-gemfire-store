@@ -1,2 +1,2 @@
-# kafkastreams-gemfire-connector
-Backing up a Ktable to pivotal cloud cache
+# kafka-streams-gemfire-store
+Creating a gemfire materialized store for kafka streams application
