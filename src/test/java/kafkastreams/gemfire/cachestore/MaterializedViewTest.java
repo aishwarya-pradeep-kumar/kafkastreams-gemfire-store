@@ -50,7 +50,7 @@ public class MaterializedViewTest {
     }
 
     @Test
-    public void shouldMergeMember() throws Exception {
+    public void shouldMergeValue() throws Exception {
 
         // Input 1: current state of latest topic.
         List<KeyValue<String, String>> initialMembershipData = Arrays.asList(
